@@ -1,6 +1,5 @@
-- Hi, I’m @pinkduckies
+- Hi, I’m Kai
 - I like dogs
-- Feel free to email me at pinkduckiespinkducki@icloud.com
 
 <!---
 pinkduckies/pinkduckies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
